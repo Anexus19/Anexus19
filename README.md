@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anexus</h1>
-<h3 align="center">A</h3>
+<h3 align="center">Welcome to some info about me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anexus19&label=Profile%20views&color=0e75b6&style=flat" alt="anexus19" /> </p>
 
