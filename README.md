@@ -23,3 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anexus19&show_icons=true&locale=en&layout=compact" alt="anexus19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anexus19&show_icons=true&locale=en" alt="anexus19" /></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1waGJ3anV1dXE2MnN0Mng1eWdlb3d0eHFrYzdpOWlheGkwaDB6OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vL8jVjKkqbVh2qdFj0/giphy.gif" width="150"/>
+</div>
