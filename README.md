@@ -2,6 +2,10 @@
 
 <hr style="border: 2px solid #4CAF50;" />
 
+<p align="center">
+  <img src="clover%20banner.png" alt="Clover Banner" width="100%" style="max-height:250px; object-fit:contain;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm anexus</h1>
 
 - 🔭 I’m currently working on [python projects](https://github.com/Anexus19/python-mini-projects)
